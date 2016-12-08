@@ -7,7 +7,7 @@
         "screeps-typescript-declarations": "*",
         "typings": "*",
         "gulp": "*",
-        "gulp-tsc": "*",
+        "gulp-typescript": "*",
         "gulp-concat": "*",
         "gulp-uglify": "*",
         "gulp-rename": "*",
