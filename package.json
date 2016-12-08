@@ -1,0 +1,17 @@
+{
+    "name": "dnd-screeps-manager",
+    "description": "Initial Typscript Endeavor",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "screeps-typescript-declarations": "*",
+        "typings": "*",
+        "gulp": "*",
+        "gulp-tsc": "*",
+        "gulp-concat": "*",
+        "gulp-uglify": "*",
+        "gulp-rename": "*",
+        "https": "*",
+        "fs": "*"
+    }
+}

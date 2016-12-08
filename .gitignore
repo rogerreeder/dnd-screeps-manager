@@ -1,0 +1,8 @@
+Gruntfile.js
+node_modules/*
+**/dist/*
+npm_debug.log
+secrets.js
+screeps-ai-master
+garethp
+.vscode/*
