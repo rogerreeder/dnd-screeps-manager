@@ -1,8 +1,7 @@
 Gruntfile.js
 node_modules/*
-**/dist/*
+dist/*
 npm_debug.log
 secrets.js
-screeps-ai-master
-garethp
+gulpfile.js
 .vscode/*
